@@ -5,7 +5,7 @@
 ]]
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet(https://raw.githubusercontent.com/ghoulmain/s9floodscriptware/main/s9%20streamable"))()
+local Aiming = loadstring(game:HttpGet(https://raw.githubusercontent.com/ghoulmain/s9floodhowyougetcrackedsped/main/niggafloodware"))()
 
 -- // Disable Team Check
 Aiming.TeamCheck(false)
